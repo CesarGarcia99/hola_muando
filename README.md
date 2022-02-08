@@ -1,2 +1,2 @@
-# hola_muando
+# hola-mundo
 Mi primer repositorio de prueba.
